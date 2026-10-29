@@ -1,0 +1,8 @@
+{
+  "name": "TKA LITERASI SMART PRO SD/MI",
+  "description": "Platform AI Pembuat Soal, Latihan, Simulasi, dan Evaluasi Literasi Membaca SD/MI Berbasis Kompetensi",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

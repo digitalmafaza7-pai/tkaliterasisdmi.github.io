@@ -1,0 +1,44 @@
+[
+  {
+    "code": "TKAPRO-090E-33AA-DBC2",
+    "createdAt": "2026-10-29T03:04:45.977Z",
+    "maxUsage": 10,
+    "usageCount": 0,
+    "status": "active",
+    "note": "Lisensi Kelas 5 Unggulan",
+    "activations": []
+  },
+  {
+    "code": "TKAPRO-SDMI-2026-VIP1",
+    "createdAt": "2026-10-29T03:04:23.651Z",
+    "maxUsage": 100,
+    "usageCount": 1,
+    "status": "active",
+    "note": "Kode Master Sekolah / Percobaan Resmi",
+    "activations": [
+      {
+        "installationId": "INST-TEST-123",
+        "activatedAt": "2026-10-29T03:04:33.647Z",
+        "clientName": "SD Percobaan 01"
+      }
+    ]
+  },
+  {
+    "code": "TKAPRO-GURU-SD01-AKTIF",
+    "createdAt": "2026-10-29T03:04:23.651Z",
+    "maxUsage": 50,
+    "usageCount": 0,
+    "status": "active",
+    "note": "Lisensi Guru Penggerak Literasi",
+    "activations": []
+  },
+  {
+    "code": "TKAPRO-LITERASI-EMAS-77",
+    "createdAt": "2026-10-29T03:04:23.651Z",
+    "maxUsage": 1,
+    "usageCount": 0,
+    "status": "active",
+    "note": "Lisensi Tunggal Permanen Siswa",
+    "activations": []
+  }
+]
